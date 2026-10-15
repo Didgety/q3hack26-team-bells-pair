@@ -1,0 +1,50 @@
+[
+  {
+    "theta": 0,
+    "sign": -1,
+    "max_operator_residual": 1.1102230246251565e-16,
+    "max_leakage_norm": 2.220446049250313e-16
+  },
+  {
+    "theta": 0,
+    "sign": 1,
+    "max_operator_residual": 1.1102230246251565e-16,
+    "max_leakage_norm": 2.220446049250313e-16
+  },
+  {
+    "theta": 0.05,
+    "sign": -1,
+    "max_operator_residual": 5.551115123125783e-16,
+    "max_leakage_norm": 4.440892627896187e-16
+  },
+  {
+    "theta": 0.05,
+    "sign": 1,
+    "max_operator_residual": 5.551115123125783e-16,
+    "max_leakage_norm": 4.440892627896187e-16
+  },
+  {
+    "theta": 0.1,
+    "sign": -1,
+    "max_operator_residual": 2.220446049250313e-16,
+    "max_leakage_norm": 4.44092597968927e-16
+  },
+  {
+    "theta": 0.1,
+    "sign": 1,
+    "max_operator_residual": 2.220446049250313e-16,
+    "max_leakage_norm": 4.44092597968927e-16
+  },
+  {
+    "theta": 0.2,
+    "sign": -1,
+    "max_operator_residual": 4.440892098500626e-16,
+    "max_leakage_norm": 2.237726045655905e-16
+  },
+  {
+    "theta": 0.2,
+    "sign": 1,
+    "max_operator_residual": 4.440892098500626e-16,
+    "max_leakage_norm": 2.237726045655905e-16
+  }
+]

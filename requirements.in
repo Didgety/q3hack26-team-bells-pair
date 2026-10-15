@@ -1,0 +1,12 @@
+# Dependency inputs; tested resolved versions are in requirements.lock.txt.
+# Use scripts/bootstrap_venv.py --install --locked for the tested environment.
+qiskit>=2,<3
+qiskit-aer
+numpy
+scipy
+matplotlib
+pylatexenc
+pytest
+ipykernel
+nbformat
+nbclient

@@ -1,0 +1,50 @@
+[
+  {
+    "true_model": "F",
+    "model": "R",
+    "theta": 0.0,
+    "shots": 512,
+    "nonzero": 0,
+    "log_odds": 0.0
+  },
+  {
+    "true_model": "R",
+    "model": "R",
+    "theta": 0.0,
+    "shots": 512,
+    "nonzero": 0,
+    "log_odds": 0.0
+  },
+  {
+    "true_model": "F",
+    "model": "F",
+    "theta": 0.1,
+    "shots": 512,
+    "nonzero": 124,
+    "log_odds": 33.31984166123374
+  },
+  {
+    "true_model": "R",
+    "model": "R",
+    "theta": 0.1,
+    "shots": 512,
+    "nonzero": 56,
+    "log_odds": -23.038052682609475
+  },
+  {
+    "true_model": "F",
+    "model": "F",
+    "theta": 0.2,
+    "shots": 512,
+    "nonzero": 235,
+    "log_odds": 72.011469839048
+  },
+  {
+    "true_model": "R",
+    "model": "R",
+    "theta": 0.2,
+    "shots": 512,
+    "nonzero": 99,
+    "log_odds": -66.87540589611297
+  }
+]

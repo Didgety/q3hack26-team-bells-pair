@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+*.egg-info/
+results/notebook-run/
+results/smoke/
+results/jupyter-runtime/
+results/.mplconfig/
+local-backups/
+notebooks/q3hack/
+deliverable/
