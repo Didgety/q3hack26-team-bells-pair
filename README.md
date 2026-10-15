@@ -141,7 +141,7 @@ resolution using the bootstrap command with --install but without --locked.
 | results/README.md | Data dictionary and raw-record mapping |
 | results/manifest.json | Runtime, versions, parameters, seeds, and execution accounting |
 | requirements.in / requirements.lock.txt | Dependency inputs / tested resolution |
-| references.bib | Academic bibliography, including the exact requested 2026 v1 paper |
+| references.bib | Academic bibliography |
 
 ## What the result supports
 
